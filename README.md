@@ -2,7 +2,7 @@
 
 Hi there, I'm TomsProject and I'm the student of Beijing No.20 High School.
 
-- 🔭 I’m currently working on @ytmo and [Toms Project](https://projectoms.com)
+- 🔭 I’m currently working on [@ytmo](https://github.com/ytmo) and [Toms Project](https://projectoms.com)
 - 🌱 I’m currently learning C++, PHP, React, Git, School-classes and more
 - 💬 Ask me about join [Toms Project](https://projectoms.com), learning Chinese, homework problems (Quanpin, 5·3, ...) and more.
 - 📫 How to reach me: E-mail: tom@projectoms.com, [Comment](https://www.projectoms.com/pc/view/Write-Message.htm), Weibo [@tomsproject](https://weibo.com/tomsproject), Twitter [@99tmo](https://twitter.com/99tmo) or Telegram [@yestp](https://t.me/yestp)
