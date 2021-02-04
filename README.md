@@ -13,7 +13,8 @@ Hi there, I'm TomsProject and I'm the student of Beijing No.20 High School.
 - 🌎 Languages I can speak: Chinese (Mandarin) and English.
 
 
-谢谢同志们！([Ma Baoguo Terrier](https://www.google.com/search?q=Ma+Baoguo))
+### GitHub Stats 
+![TomsProject's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tomsproject&count_private=true&show_icons=true)
 
 <!--
 **TomsProject/TomsProject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
