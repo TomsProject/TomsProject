@@ -2,7 +2,7 @@
 
 ### All About TomsProject 👋
 
-Hi there, I'm TomsProject and I'm the student of The High School Affiliated to Hohhot Normal University.
+Hi there, I'm TomsProject and I'm the student of The High School Affiliated to Inner Mongolia Normal University.
 
 - 🔭 I’m currently working on [@ytmo](https://github.com/ytmo) and [Toms Project](https://projectoms.com)
 - 🌱 I’m currently learning C++, PHP, React, Git, School-classes and more
