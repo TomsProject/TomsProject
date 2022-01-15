@@ -1,4 +1,4 @@
-<img width="350px" align="right" src="https://assets.projectoms.com/assets/CDN/GitHub/image/Icon/big/icon-1024.webp"/>
+<img width="350px" align="right" src="https://assets.projectoms.com/image/Icon/big/icon-1024.webp"/>
 
 ### All About TomsProject 👋
 
