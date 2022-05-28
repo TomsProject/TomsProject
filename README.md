@@ -1,4 +1,4 @@
-<img width="350px" align="right" src="https://assets.projectoms.com/image/Icon/big/icon-1024-uki.jpg"/>
+<img width="350px" align="right" src="https://assets.projectoms.com/image/Icon/big/icon-1024.jpg"/>
 
 ### All About TomsProject 👋
 
