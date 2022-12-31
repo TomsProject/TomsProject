@@ -1,7 +1,5 @@
 <img width="350px" align="right" src="https://assets.projectoms.com/image/Icon/big/icon-1024-round.webp"/>
 
-# 2000 commits in a year achieved!
-
 ### All About TomsProject 👋
 
 Hi there, I'm TomsProject and I'm the student of The High School Affiliated to Inner Mongolia Normal University.
